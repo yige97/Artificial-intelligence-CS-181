@@ -12,4 +12,4 @@ Construct a Bayes net structure and apply it in the inference of the pacman. Imp
 # p5
 Implement a pac-man agent's action that can charges the ghost, by using forward algorithm updates to compute the exact belief function, and using a particle filter for approximately tracking a single ghost.
 # p6
-Implement Q-learning pac-man agent's action, also implement a value iteration pac-man agents that take a Markov decision process on initialization and run value iteration (or cyclic value iteration, or prioritized sweeping value iteration).
+Implement Q-learning pac-man agent's action, also implement a value iteration pac-man agents that take a Markov decision process on initialization and run value iteration (value iteration, cyclic value iteration, prioritized sweeping value iteration).
